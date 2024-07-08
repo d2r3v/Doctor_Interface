@@ -2,7 +2,7 @@
 
 The Doctor's Office Application is a Java desktop application that facilitates prescription management and provides patients with access to their prescriptions. It offers a secure and efficient way for doctors and patients to communicate and manage medical information.
 
-## Features
+##  Key Features
 
 - User Authentication: Secure login system for doctors and patients to access their respective accounts.
 - Doctor's Dashboard:
@@ -23,3 +23,11 @@ The Doctor's Office Application is a Java desktop application that facilitates p
 6. As a patient, I want to access my prescriptions whenever and wherever I need them.
 7. As a patient, I want to be able to change my login password.
 
+## Frameworks Used
+
+- **Java Swing** was used for the front end interface
+- **Vanilla Java** was used for the backend
+
+## Use Case Diagram
+
+![ Use Case Diagram](<Use case Diagram - Doctors App.png>)
